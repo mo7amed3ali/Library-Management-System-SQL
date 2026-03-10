@@ -47,3 +47,38 @@ The project includes several SQL queries such as:
 - Relational Database Design
 
 ## Project Structure
+## Database Diagram
+![Database Diagram](screenshots/لقطة شاشة 2026-03-05 033317.png)
+
+## Query 1: Books with Authors
+![Query 1](screenshots/لقطة شاشة 2026-03-10 021828.png)
+
+## Query 2: Active Loans
+![Query 2](screenshots/لقطة شاشة 2026-03-10 021852.png)
+
+## Query 3: Overdue Books
+![Query 3](screenshots/لقطة شاشة 2026-03-10 021913.png)
+
+## Query 4: Loans per Member
+![Query 4](screenshots/لقطة شاشة 2026-03-10 021929.png)
+
+## Query 5: Loans per Staff
+![Query 5](screenshots/لقطة شاشة 2026-03-10 021946.png)
+
+## Query 6: Top Borrowed Books
+![Query 6](screenshots/لقطة شاشة 2026-03-11 000658.png)
+
+## Query 7: Most Active Members
+![Query 7](screenshots/لقطة شاشة 2026-03-11 003100.png)
+
+## Query 8: Books per Category
+![Query 8](screenshots/لقطة شاشة 2026-03-11 003153.png)
+
+## Query 9: Available Books
+![Query 9](screenshots/لقطة شاشة 2026-03-11 003250.png)
+
+## Additional Query / Optional
+![Additional](screenshots/لقطة شاشة 2026-03-11 003307.png)
+
+## Another Screenshot / Optional
+![Another](screenshots/لقطة شاشة 2026-03-11 003338.png)
