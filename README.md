@@ -47,38 +47,38 @@ The project includes several SQL queries such as:
 - Relational Database Design
 
 ## Project Structure
-## Database Diagram
+## مخطط قاعدة البيانات
 ![Database Diagram](screenshots/لقطة شاشة 2026-03-05 033317.png)
 
-## Query 1: Books with Authors
+## عرض الكتب مع المؤلفين والتصنيف
 ![Query 1](screenshots/لقطة شاشة 2026-03-10 021828.png)
 
-## Query 2: Active Loans
+## الكتب المستعارة حالياً
 ![Query 2](screenshots/لقطة شاشة 2026-03-10 021852.png)
 
-## Query 3: Overdue Books
+## الكتب المتأخرة
 ![Query 3](screenshots/لقطة شاشة 2026-03-10 021913.png)
 
-## Query 4: Loans per Member
+## عدد الاستعارات لكل عضو
 ![Query 4](screenshots/لقطة شاشة 2026-03-10 021929.png)
 
-## Query 5: Loans per Staff
+## عدد الاستعارات التي تم التعامل معها لكل موظف
 ![Query 5](screenshots/لقطة شاشة 2026-03-10 021946.png)
 
-## Query 6: Top Borrowed Books
+## أكثر الكتب استعارة
 ![Query 6](screenshots/لقطة شاشة 2026-03-11 000658.png)
 
-## Query 7: Most Active Members
+## أكثر الأعضاء استعارة
 ![Query 7](screenshots/لقطة شاشة 2026-03-11 003100.png)
 
-## Query 8: Books per Category
+## عدد الكتب في كل تصنيف
 ![Query 8](screenshots/لقطة شاشة 2026-03-11 003153.png)
 
-## Query 9: Available Books
+## الكتب المتاحة حالياً
 ![Query 9](screenshots/لقطة شاشة 2026-03-11 003250.png)
 
-## Additional Query / Optional
+## استعلام إضافي / اختياري
 ![Additional](screenshots/لقطة شاشة 2026-03-11 003307.png)
 
-## Another Screenshot / Optional
+## لقطة شاشة إضافية / اختياري
 ![Another](screenshots/لقطة شاشة 2026-03-11 003338.png)
